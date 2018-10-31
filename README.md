@@ -4,7 +4,7 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](http://www.matthiaszarzecki.com) [![Twitter Follow](https://img.shields.io/twitter/follow/icarustyler.svg?style=social&label=Follow)](https://twitter.com/IcarusTyler)
 
-Prince-of-Persia-Style Time-Rewinding Example for a Tuts+ Article in Unity3d, part 1 of 2
+Prince-of-Persia-Style Time-Rewinding Example for a Tuts+ Article in Unity3d
 
 [Part 1](https://gamedevelopment.tutsplus.com/tutorials/how-to-build-a-prince-of-persia-style-time-rewind-system-part-1--cms-26090)
 [Part 2](https://gamedevelopment.tutsplus.com/articles/how-to-build-a-prince-of-persia-style-time-rewind-system-part-2--cms-26363)
